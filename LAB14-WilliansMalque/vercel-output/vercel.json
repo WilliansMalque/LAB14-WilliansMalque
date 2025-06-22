@@ -1,11 +1,11 @@
 {
   "version": 2,
   "public": true,
-  "builds": [],
+  "outputDirectory": "vercel-output",
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/vercel-output/index.html"
+      "dest": "/index.html"
     }
   ]
 }
