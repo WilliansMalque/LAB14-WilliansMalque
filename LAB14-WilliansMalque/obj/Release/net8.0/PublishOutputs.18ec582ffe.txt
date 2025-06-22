@@ -1,0 +1,7 @@
+C:\Users\willians\Documents\DAEA\Lab14-folder\LAB14-WilliansMalque.exe
+C:\Users\willians\Documents\DAEA\Lab14-folder\appsettings.Development.json
+C:\Users\willians\Documents\DAEA\Lab14-folder\appsettings.json
+C:\Users\willians\Documents\DAEA\Lab14-folder\LAB14-WilliansMalque.dll
+C:\Users\willians\Documents\DAEA\Lab14-folder\LAB14-WilliansMalque.deps.json
+C:\Users\willians\Documents\DAEA\Lab14-folder\LAB14-WilliansMalque.runtimeconfig.json
+C:\Users\willians\Documents\DAEA\Lab14-folder\LAB14-WilliansMalque.pdb
