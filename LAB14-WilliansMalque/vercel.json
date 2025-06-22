@@ -1,11 +1,11 @@
 {
-  "builds": [
-    {
-      "src": "vercel-output/**",
-      "use": "@vercel/static"
-    }
-  ],
+  "version": 2,
+  "public": true,
+  "builds": [],
   "routes": [
-    { "src": "/(.*)", "dest": "/vercel-output/$1" }
+    {
+      "src": "/(.*)",
+      "dest": "/vercel-output/index.html"
+    }
   ]
 }
