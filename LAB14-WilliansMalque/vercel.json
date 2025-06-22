@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "public": true,
+  "outputDirectory": "vercel-output",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
